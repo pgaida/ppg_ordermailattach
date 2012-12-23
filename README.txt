@@ -1,0 +1,2 @@
+--- Beschreibung ---
+Mit diesem Modul kann an die Bestellbestätigungsmail, die an den Kunden verschickt wird, ein definierter Anhang als PDF-Daten verschickt werden (zB. AGB und Widerrufsbelehrung). Der Name des Anhangs kann in den Moduleinstellungen definiert werden. Die Datei muss dabei in dem Ordner mit den Sprachdateien (in der Version 4.7 ist das SHOPROOT/application/translations/DE für Deutsch oder .../EN für Englisch).
